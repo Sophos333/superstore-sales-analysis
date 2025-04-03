@@ -4,6 +4,15 @@ Beginner-friendly sales analysis project using Python, pandas, and matplotlib. T
 
 ## 📁 Project Structure
 
+```bash
+superstore-sales-analysis/
+├── Data/ # Raw dataset (CSV file)
+│ └── Sample - Superstore.csv
+├── NoteBooks/ # Jupyter notebook for analysis
+│ └── analysis.ipynb
+├── README.md # Project overview and instructions
+└── .gitignore # Git rules for ignoring unnecessary files
+```
 
 ## 🧰 Tools Used
 
