@@ -46,3 +46,19 @@ I’m documenting my data analyst journey step-by-step — each project adds to 
 ---
 
 🧠 *Practice makes progress.* Stay tuned for more data projects!
+
+📊 Superstore Sales Analysis — Visual Insights Added!
+This project explores a real-world sales dataset from a fictional superstore, using Python and pandas for data cleaning and exploration.
+
+✅ Newly added:
+Sales Trends Over Time: Monthly patterns and seasonality
+
+Profit by Category/Sub-Category: Uncovered top and bottom performers
+
+Customer Segment Analysis: Compared sales vs. profit across segments
+
+💻 Tools used:
+Python • pandas • Matplotlib • Seaborn • Jupyter Notebook • Git
+
+📌 Machine learning phase begins next — stay tuned!
+
