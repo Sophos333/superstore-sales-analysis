@@ -60,5 +60,19 @@ Customer Segment Analysis: Compared sales vs. profit across segments
 💻 Tools used:
 Python • pandas • Matplotlib • Seaborn • Jupyter Notebook • Git
 
-📌 Machine learning phase begins next — stay tuned!
+🧠 Machine Learning: Predicting Profit
+We introduced a machine learning workflow to predict profit based on historical sales data. Using scikit-learn and linear regression, we explored how key features like discount, quantity, category, and region influence profit.
+
+Highlights:
+
+Selected relevant features for training
+
+One-hot encoded categorical variables
+
+Trained a linear regression model using train_test_split
+
+Evaluated performance with Mean Squared Error (MSE) and R² Score
+
+Outcome:
+This initial model acts as a baseline for future ML experiments and optimization.
 
