@@ -63,19 +63,15 @@ Customer Segment Analysis: Compared sales vs. profit across segments
 
 These visuals demonstrate how the Greatest Common Factor (GCF) function works step-by-step through recursion:
 
-<table>
-<tr>
-  <td><img src="Data/Images/gcf_1.png" alt="GCF Step 1" width="300"/></td>
-  <td><img src="Data/Images/gcf_2.png" alt="GCF Step 2" width="300"/></td>
-</tr>
-<tr>
-  <td><img src="Data/Images/gcf_3.png" alt="GCF Step 3" width="300"/></td>
-  <td><img src="Data/Images/gcf_4.png" alt="GCF Step 4" width="300"/></td>
-</tr>
-<tr>
-  <td colspan="2" align="center"><img src="Data/Images/gcf_5.png" alt="GCF Final Step" width="300"/></td>
-</tr>
-</table>
+<p align="center">
+  <img src="Data/Images/gcf_1.png" alt="GCF Step 1" width="300"/>
+  <img src="Data/Images/gcf_2.png" alt="GCF Step 2" width="300"/>
+  <br>
+  <img src="Data/Images/gcf_3.png" alt="GCF Step 3" width="300"/>
+  <img src="Data/Images/gcf_4.png" alt="GCF Step 4" width="300"/>
+  <br>
+  <img src="Data/Images/gcf_5.png" alt="GCF Final Step" width="300"/>
+</p>
 
 💻 Tools used:
 Python • pandas • Matplotlib • Seaborn • Jupyter Notebook • Git
