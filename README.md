@@ -64,20 +64,25 @@ Customer Segment Analysis: Compared sales vs. profit across segments
 These visuals demonstrate how the Greatest Common Factor (GCF) function works step-by-step through recursion:
 
 <p align="center">
-  <img src="Data/Images/gcf_1.png" alt="GCF Step 1" width="300"/>
-  <img src="Data/Images/gcf_2.png" alt="GCF Step 2" width="300"/>
-  <br>
-  <img src="Data/Images/gcf_3.png" alt="GCF Step 3" width="300"/>
-  <img src="Data/Images/gcf_4.png" alt="GCF Step 4" width="300"/>
-  <br>
-  <img src="Data/Images/gcf_5.png" alt="GCF Final Step" width="300"/>
+  <img src="Data/Images/gcf_1.png" alt="GCF Step 1" width="200"/>
+  <img src="Data/Images/gcf_2.png" alt="GCF Step 2" width="200"/>
+  <br/>
+  <img src="Data/Images/gcf_3.png" alt="GCF Step 3" width="200"/>
+  <img src="Data/Images/gcf_4.png" alt="GCF Step 4" width="200"/>
+  <br/>
+  <img src="Data/Images/gcf_5.png" alt="GCF Final Step" width="200"/>
 </p>
 
-💻 Tools used:
-Python • pandas • Matplotlib • Seaborn • Jupyter Notebook • Git
+💻 **Tools used:** Python • pandas • Matplotlib • Seaborn • Jupyter Notebook • Git
 
-🧠 Machine Learning: Predicting Profit
+🧠 **Machine Learning: Predicting Profit**  
 We introduced a machine learning workflow to predict profit based on historical sales data. Using scikit-learn and linear regression, we explored how key features like discount, quantity, category, and region influence profit.
+
+### Highlights:
+- Selected relevant features for training  
+- One-hot encoded categorical variables  
+- Trained a linear regression model using `train_test_split`
+
 
 Highlights:
 
